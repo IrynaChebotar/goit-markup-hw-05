@@ -187,9 +187,11 @@ body {
 /*============================= FEATURES =================================*/
 
 .features-list-icon {
+	display: flex;
 	width: 264px;
 	height: 112px;
 	margin-bottom: 8px;
+	padding: 24px 100px;
 	background: var(--secondary-background-color);
 	border-radius: 4px;
 }
